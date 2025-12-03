@@ -1,5 +1,6 @@
 ## HELLO WORLD!👋
 
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python)](https://skillicons.dev)
 <!--
 **ledanghoanganh/ledanghoanganh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
